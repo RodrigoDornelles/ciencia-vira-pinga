@@ -15,7 +15,12 @@ Ciência Vira em Piga
 
 ## Tabela de punições ##
 
-| Categoria | Canal | Autor | Termos |
-| :-------: | :---: | :---: | :----- |
-| Ciência | [Ciencia todo dia](https://youtube.com/c/CienciaTodoDia/) | Pedro Loss | YorkShire<br/><br/>Buraco Negro |
-| Computação | [Fabio Akita](https://youtube.com/c/FabioAkita1990) | Fabio Akita | Linguição de Bytes<br/><br/>Bala de prata |
+
+| Conteudo | Termos | Dificuldade | Clique abaixo |
+| :------: | :----- | :---------- | :---------------: |
+| ![](avatars/ciencia-todo-dia.jpg)<br/>**Ciência  Todo Dia**<br/>(Pedro Loss)| _YorkShire_<br/><br/>_Buraco Negro_ | :star::star::star: | [Jogar :video_game:](https://www.youtube.com/c/CienciaTodoDia/videos) |
+| ![](avatars/fabio-akita.jpg)<br/>**Fabio Akita**| _Linguição de Bytes<br/><br/>Bala de prata_ | :star::star: | [Jogar :video_game:](https://www.youtube.com/c/FabioAkita1990/videos) |
+| ![](avatars/felipe-deschamps.jpg)<br/>**Filipe Deschamps**| _Sencacional<br/><br/>Delicinha<br/><br/>Muito massa_ | :star::star::star::star::star: | [Jogar :video_game:](https://www.youtube.com/c/FilipeDeschamps/videos) |
+| ![](avatars/ponto-em-comum.jpg)<br/>**Ponto em comum**<br/>(Davi Calazanas)| _Literalmente_<br/><br/>_Não é exatamente pratico_ | :star::star: | [Jogar :video_game:](https://www.youtube.com/c/PontoemComumcomMigueleosHugobertos/videos) |
+
+
