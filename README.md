@@ -8,9 +8,9 @@ Ciência Vira em Piga
 
 ## Regras do jogo ##
 
- * Quando alguém falar um tempo na lista de punições deve **tomar um xote de pinga.** _(AKA: Martelinho, Copinho.. etc)_
- * Se alguns de seus amigos esquecer de tomar uma, deve **tomar um xote a mais para cada participante** do jogo.
- * Se alguém dar spolier e acertar, **todos os outros devem tomar duas doses**. Se for alarme falso, **quem chutou deve tomar duas doses**.
+ * Quando o criador de conteúdo falar um dos respectivos termos na lista de punições, todos deverão **tomar um xote de pinga.** _(AKA: Martelinho, Copinho.. etc)_
+ * Se algum amigo esquecer de tomar uma, então ele deverá **tomar um xote a mais para cada participante** do jogo.
+ * Se algum amigo dar spolier e acertar, então todos **os outros deverão tomar duas doses**. Caso for um alarme falso, quem chutou **errado deverá tomar duas doses**.
  * Esse repositório não possui nenhuma ligação com os autores de videos.
 
 ## Tabela de punições ##
